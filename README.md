@@ -4,6 +4,9 @@
 
 This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
 
+# you need
+https://www.python.org/downloads/
+
 # Commands
 
 Available commands are :
